@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Sinister 
-- 👀 I code stuff for fun 
-- 🛡️ Discord Volunteer Moderator 
-- 💤 Professional Procrastinator
-- 📫 Join my Discord: 
-https://discord.gg/J4TPFSHd5R
+👋 Hi, I’m Sinister 
+🍺 I like playing video games and 
+   spending time with my homies <3
+
+🔗 Join my Discord: 
+   https://discord.gg/J4TPFSHd5R
 
 <!---
 sinister6969/sinister6969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
